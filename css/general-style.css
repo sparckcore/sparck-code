@@ -118,15 +118,14 @@ a:hover {
 /* logo */
 
 a.navbar-brand {
+    font-family: 'VT323', monospace;
     color: #fff !important;
-    letter-spacing: 4px;
-    font-size: 46px;
-    font-weight: 800;
-    font-family: 'Great Vibes', cursive;
+    letter-spacing: 1px;
+    font-size: 60px;
+    font-weight: 900;
     position: relative;
-    padding-left: 2em;
-    padding-top: 10px;
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.44);
+    padding-left: 1.5em;
+    padding-top: 0px;
 }
 
 a.navbar-brand img {
